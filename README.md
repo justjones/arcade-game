@@ -9,4 +9,3 @@ To move the boy use arrow keys up, down, left, right.
 while researching how to code the JavaScript for app.js many sites where visited and some code from these site may have been used in my project. These sites include Sitepoint,Udemy, and Udacity. 
 
 
-https://github.com/justjones/arcade-game
