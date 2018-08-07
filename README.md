@@ -6,7 +6,16 @@ If the player collides with a Bug the game is reset and begins again. Once the p
 
 To move the boy use arrow keys up, down, left, right. 
 
-while researching how to code the JavaScript for app.js many sites where visited and some code from these site may have been used in my project. These sites include Sitepoint,Udemy, and Udacity. 
 
+Installation: 
+
+  1. Download the repository
+  2. click download ZIP on the right of the screen then extract the zip file ot your computer. Or alternativly you could just clone the               repostiory using git
+  3. Navigate to where you unzipped or cloned the repository
+  4. Double-click index.html to open the game in your browser
+  
+or point your browser to https://justjones.github.io/arcade-game/
+
+while researching how to code the JavaScript for app.js many sites where visited and some code from these site may have been used in my project. These sites include Sitepoint,Udemy, and Udacity. 
 
 
